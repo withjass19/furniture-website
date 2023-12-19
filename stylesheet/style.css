@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+:root{
+    --fs1 = 26px;
+    --fs2 = 22px;
+    --fs3 = 20px;
+    --fs4 = 18px;
+    --fs5 = 16px;
+    --fs6 = 14px;
+    --fs7 = 12px;
+}
+
+.fs1{
+    font-size: var(--fs1);
+}
+.fs2{
+    font-size: var(--fs2);
+}
+.fs3{
+    font-size: var(--fs3);
+}
+.fs4{
+    font-size: var(--fs4)
+}
+.fs5{
+    font-size: var(--fs5)
+}
+.fs6{
+    font-size: var(--fs6)
+}
+.fs7{
+    font-size: var(--fs7)
+}
